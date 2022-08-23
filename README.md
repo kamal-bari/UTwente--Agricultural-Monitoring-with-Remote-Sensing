@@ -13,4 +13,4 @@
 * Remote Sensing of Evapotranspiration from Cropland (Reading assignment)
 * Remote sensing for drought monitoring & impact assessment: Progress, past challenges and future opportunities
    - Examining the relationship between Landsat thermal infrared and evapotranspiration [https://vimeo.com/657844169/db2db3fae3]
-* Final Exam
+* Final Exam (Scored 7.9/10)
